@@ -24,16 +24,16 @@ h1, h2, h3{
     margin-top: 70px; 
   }
 
-.navigation {
-  position: fixed;
-  width: 400px;
-  height: 70px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  background: #333;
-  border-radius: 10px;
-}
+  .navigation {
+    position: fixed;
+    width: 400px;
+    height: 70px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #333;
+    border-radius: 10px;
+  }
 
 .navigation ul {
   position: relative;
